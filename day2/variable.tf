@@ -7,7 +7,7 @@ default     = "t2.micro"
 variable "ami" {
     description = "the ami to use"
     type = string
-    default = "ami-0490fddec0cbeb88b"
+    default = "ami-09efc42336106d2f2"
 }
 
 variable "key_name" {
